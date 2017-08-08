@@ -1,7 +1,7 @@
 FOSOAuthServerBundle
 ====================
 
-[![Build Status](https://secure.travis-ci.org/FriendsOfSymfony/FOSOAuthServerBundle.png)](http://travis-ci.org/FriendsOfSymfony/FOSOAuthServerBundle)
+[![Build Status](https://travis-ci.org/melmccann/FOSOAuthServerBundle.svg?branch=master)](https://travis-ci.org/melmccann/FOSOAuthServerBundle)
 
 
 ## Documentation
