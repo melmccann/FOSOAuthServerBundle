@@ -35,3 +35,5 @@ before_script:
 
 phpunit: if [ "$COVERAGE" == true ]; then phpunit --coverage-text; else phpunit; fi
 
+notifications:
+  email: false
