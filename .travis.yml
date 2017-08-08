@@ -39,3 +39,4 @@ before_script:
   - composer update --prefer-dist --no-interaction $COMPOSER_FLAGS
 
 phpunit: if [ "$COVERAGE" == true ]; then phpunit --coverage-text; else phpunit; fi
+
